@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ABHILASH</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGWfyJMw7-sz1_5LCaFYfMqKSlOHzpMgniqw&s" alt="abhilash5656" /> </p>
+<p align="left"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGWfyJMw7-sz1_5LCaFYfMqKSlOHzpMgniqw&s" alt="abhilash5656" width="100"/> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhilash5656" alt="abhilash5656" /></a> </p>
 
